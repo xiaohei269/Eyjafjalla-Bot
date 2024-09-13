@@ -1,1 +1,1 @@
-# EyjafjallaBot
+# Eyjafjalla-Bot
